@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pract2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="next_btn">Next</string>
+    <string name="name_view">Name</string>
+    <string name="email_view">Email</string>
+    <string name="phoneNumView">Phone Number</string>
+</resources>
